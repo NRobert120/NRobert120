@@ -11,7 +11,7 @@ Interested in **Web Development**, **Physics + Programming**, and **AI**
 
 ## 🛠️ Tech & Design Stack
 
-<div align="center">
+<div align="start">
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=js,python,c,cpp,ts&theme=dark" />

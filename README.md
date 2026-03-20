@@ -1,56 +1,103 @@
 # 👋 Hi, I'm NIYOMPUHWE Robert
 
+<div align="center">
+
 **Full-Stack Web Developer** · Student (Intermediate)  
 Interested in **Web Development**, **Physics + Programming**, and **AI**
 
+</div>
+
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech & Design Stack
+
+<div align="center">
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python)
-![C](https://img.shields.io/badge/C-000000?style=flat&logo=c)
+<img src="https://skillicons.dev/icons?i=js,python,c,cpp,ts&theme=dark" />
 
 ### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
-![JavaScript](https://img.shields.io/badge/Vanilla%20JS-000000?style=flat&logo=javascript)
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap&theme=dark" />
 
 ### Backend
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express)
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat&logo=mysql)
-
+<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-000000?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat&logo=linux)
-![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat&logo=visualstudiocode)
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat&logo=postman)
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma&theme=dark" />
+
+</div>
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=robertniyompuhwe-eng&layout=compact&theme=github_dark)
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/robertniyompuhwe-eng)
+[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/users/YOUR_DISCORD)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=robertniyompuhwe-eng&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertniyompuhwe-eng&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=robertniyompuhwe-eng&theme=github-dark-blue&hide_border=true" />
+
+</div>
+
+---
 
 ## 📌 Projects
 
-**Subscription Tracker**  
+### 🔔 Subscription Tracker
 API for tracking subscription renewals  
-_Node.js · Express · MongoDB_
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-**PowerHive** *(Hackathon – In Progress)*  
+### ⚡ PowerHive *(Hackathon – In Progress)*
 Backend-focused collaborative project  
-_Node.js · Express · MongoDB_ .socket.io .c++
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 👁️ Visitor Count
+
+<div align="center">
+
+![Visitor Count](https://profile-counter.glitch.me/robertniyompuhwe-eng/count.svg)
+
+</div>
 
 ---
 
 ## 📫 Contact
 
-- GitHub: [@robertniyompuhwe-eng](https://github.com/robertniyompuhwe-eng)
-- Email: **robertniyompuhwe@gmail.com**
+<div align="center">
+
+📧 **robertniyompuhwe@gmail.com**  
+🐙 [@robertniyompuhwe-eng](https://github.com/robertniyompuhwe-eng)
+
+</div>

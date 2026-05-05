@@ -44,18 +44,17 @@ Interested in **Web Development**, **Physics + Programming**, and **AI**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NRobert120&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=NRobert120&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&hide=followers" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NRobert120&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
 
 </div>
-
 ---
 
-## 🔥 Streak Stats
+## 📈 Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NRobert120&show_icons=true&theme=github_dark&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NRobert120&theme=github-compact&hide_border=true" />
 
 </div>
 
@@ -64,6 +63,7 @@ Interested in **Web Development**, **Physics + Programming**, and **AI**
 ## 📌 Projects
 
 ### 🔔 Subscription Tracker
+
 API for tracking subscription renewals
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -71,6 +71,7 @@ API for tracking subscription renewals
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### ⚡ PowerHive *(Hackathon – In Progress)*
+
 Backend-focused collaborative project
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)

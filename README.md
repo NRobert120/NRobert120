@@ -55,7 +55,7 @@ Interested in **Web Development**, **Physics + Programming**, and **AI**
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NRobert120&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=NRobert120&show_icons=true&theme=github_dark&hide_border=true" />
 
 </div>
 

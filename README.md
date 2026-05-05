@@ -2,8 +2,7 @@
 
 <div align="center">
 
-**Back-end Web Developer** · Student (Intermediate)
-Interested in **Web Development**, ** Programming**, and **AI**
+**Back-end Web Developer** · Student Interested in **Web Development**, ** Programming**, and **AI**
 
 </div>
 

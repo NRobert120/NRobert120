@@ -17,13 +17,13 @@
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,blender&theme=dark" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,ts,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,java&theme=dark" />
 
 ### Databases
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma,docker,kafka&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman,figma,docker,kafka,apacheflink&theme=dark" />
 
 ---
 

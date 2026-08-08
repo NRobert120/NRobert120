@@ -59,36 +59,6 @@
 
 ---
 
-## 📌 Projects
-
-### 🔔 Subscription Tracker
-
-API for tracking subscription renewals
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### ⚡ PowerHive *(Hackathon – In Progress)*
-
-Backend-focused collaborative project
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=NRobert120&color=blue&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
-
----
-
 ## 📫 Contact
 
 <div align="center">
